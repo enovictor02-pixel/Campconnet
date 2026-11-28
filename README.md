@@ -2,6 +2,9 @@
 # CampConnect
 
 ### A Digital Support Platform for NYSC Corps Members
+## Live Demo
+
+[View CampConnect Live](https://dynamic-paprenjak-1093b4.netlify.app/)
 
 CampConnect is an early-stage web application prototype designed to help National Youth Service Corps (NYSC) members access useful camp information and support services in one place.
 
